@@ -4,6 +4,11 @@
 
 * In-development snapshots are now published to the Central Portal Snapshots repository at https://central.sonatype.com/repository/maven-snapshots/.
 
+## [1.22.0] - 2025-07-18
+[1.22.0]: https://github.com/cashapp/zipline/releases/tag/1.22.0
+
+ * Upgrade: [Kotlin 2.20.0][kotlin_2_20_0].
+
 
 ## [1.21.1] - 2025-07-17
 [1.21.1]: https://github.com/cashapp/zipline/releases/tag/1.21.1
